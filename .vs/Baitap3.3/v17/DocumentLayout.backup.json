@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\baitap3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|solutionrelative:baitap3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap3.3\\baitap3.3\\calculatepostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|solutionrelative:baitap3.3\\calculatepostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap3.3\\baitap3.3\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|solutionrelative:baitap3.3\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap3.3\\baitap3.3\\createstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9351989-F86E-479D-8F4D-F01CF56CA474}|Baitap3.3\\Baitap3.3.csproj|solutionrelative:baitap3.3\\createstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap3.3\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\Program.cs",
+              "RelativeToolTip": "Baitap3.3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:03:01.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timing.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\Timing.cs",
+              "RelativeDocumentMoniker": "Baitap3.3\\Timing.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\Timing.cs",
+              "RelativeToolTip": "Baitap3.3\\Timing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:08:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CALCULATEPOSTFIX.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\CALCULATEPOSTFIX.cs",
+              "RelativeDocumentMoniker": "Baitap3.3\\CALCULATEPOSTFIX.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\CALCULATEPOSTFIX.cs",
+              "RelativeToolTip": "Baitap3.3\\CALCULATEPOSTFIX.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:25:36.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CREATESTACK.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\CREATESTACK.cs",
+              "RelativeDocumentMoniker": "Baitap3.3\\CREATESTACK.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap3.3\\Baitap3.3\\CREATESTACK.cs",
+              "RelativeToolTip": "Baitap3.3\\CREATESTACK.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:43:39.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
