@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Baitap3._3.CREATESTACK;
 
 namespace Baitap3._3
 {
@@ -13,7 +14,7 @@ namespace Baitap3._3
             public Node next;
             public object data;
         }
-        public class  MyStack
+        public class MyStack
         {
             Node top;
             public int count;
@@ -37,6 +38,10 @@ namespace Baitap3._3
                 top = top.next;
                 count--;
                 return value;
+            }
+            public int Count() // Đếm số phần tử trong stack
+            {
+                return count;
             }
         }
     }

@@ -11,31 +11,39 @@ namespace Baitap3._3
         public static string CalculatePostfix(string postfix)
         {
             CREATESTACK.MyStack Mystacknumble = new CREATESTACK.MyStack();
-            foreach (string ele in postfix.Select(c => c.ToString()))
+
+            foreach (var ele in postfix.Split(' ')) // Khi nhập mỗi phần tử phải có khoảng trắng (dấu cách)
             {
-                if (double.TryParse(ele, out double num)) // Kiểm tra nếu là số
+                if (double.TryParse(ele, out double num)) // Nếu là số, đẩy vào stack
                 {
                     Mystacknumble.Push(num);
                 }
-                else 
+                else
                 {
-                    double num1 = (double)Mystacknumble.Pop(); // số bên phải
-                    double num2 = (double)Mystacknumble.Pop(); // số bên trái
+                    // Kiểm tra stack có ít nhất 2 phần tử trước khi Pop
+
+                    double right = Convert.ToDouble(Mystacknumble.Pop()); // Pop toán hạng thứ nhất
+                    double left = Convert.ToDouble(Mystacknumble.Pop());  // Pop toán hạng thứ hai
                     double result = 0;
+
                     switch (ele)
                     {
                         case "+":
-                            result = num1 + num2;
+                            result = left + right;
                             break;
                         case "-":
-                            result = num1 - num2;
+                            result = left - right;
                             break;
                         case "*":
-                            result = num1 * num2;
+                            result = left * right;
                             break;
                         case "/":
-                            result = num1 / num2;
-                            break;
+                            if (right == 0)
+                            {
+                                throw new DivideByZeroException("Lỗi: Chia cho 0!");
+                            }
+                            result = left / right;
+                            break;                       
                     }
                     Mystacknumble.Push(result);
                 }

@@ -14,15 +14,15 @@ namespace Baitap3._3
 
             Timing t = new Timing();
             
-            int n = 1000000000;
-            string result = "";
+            int n = 1000000;
             Console.WriteLine("Mời bạn nhập biểu thức Postfix: ");
             string postfix = postfix = Console.ReadLine();
+            double result = 0;
 
             t.StartTime();
             for (int i = 0; i < n; i++)
             {
-                result = CALCULATEPOSTFIX.CalculatePostfix(postfix);
+                result = Convert.ToDouble(CALCULATEPOSTFIX.CalculatePostfix(postfix));
             }
             t.StopTime();
 
